@@ -11,4 +11,14 @@ public class Svømmehal {
         this.antalVandrutschebaner = antalVandrutschebaner;
         this.dybdePåVand = dybdePåVand;
     }
+
+
+    @Override
+    public String toString() {
+        return "Svømmehal{" +
+                "by='" + by + '\'' +
+                ", antalVandrutschebaner=" + antalVandrutschebaner +
+                ", dybdePåVand=" + dybdePåVand +
+                '}';
+    }
 }
