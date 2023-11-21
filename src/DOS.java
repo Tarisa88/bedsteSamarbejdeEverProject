@@ -15,4 +15,11 @@ public class DOS {
                 ", speed='" + speed + '\'' +
                 '}';
     }
+
+    public void start(){
+        if (speed.equals("Glacial")) System.out.println("Starting...starting...starting");
+
+
+
+    }
 }
