@@ -4,6 +4,8 @@ public class Svømmehal {
 
     int antalVandrutschebaner;
 
+    double dybdePåVand;
+
 
 
 }
