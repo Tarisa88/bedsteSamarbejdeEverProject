@@ -1,6 +1,9 @@
 public class Svømmehal {
 
-    int by;
+    String by;
+
+    int antalVandrutschebaner;
+
 
 
 }
